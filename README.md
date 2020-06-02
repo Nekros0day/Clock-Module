@@ -3,8 +3,6 @@
 Clock module whit adjustable-speed and a manual mode able to advance each clock cycle.
 
 ![PCB Preview](images/3d-view.png)
-![PCB Preview](images/schematic_clock module.png)
-
 
 Parts | Quantities
 ------------ | -------------
